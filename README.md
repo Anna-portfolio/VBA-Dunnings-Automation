@@ -8,6 +8,7 @@ Calculation of open amounts by comparing Seeburger and FBL1N values.<br>
 Color-coded results for quick interpretation (green = fully paid, yellow = partially paid, red = error/unpaid).<br>
 Clearing date automatically updated when available.<br><br>
 
+
 ### Value:
 This tool saves time in the finance department by eliminating manual invoice checks and ensuring faster identification of payment discrepancies.<br><br>
 
